@@ -58,7 +58,8 @@
     height: 100%;
     transition: 0.5s;
     border-radius: 100px 0 100px 0;
+    cursor: pointer;
 }
 .wrapper img:hover{
-    transform: scale(1.2);
+    transform: scale(1.2) rotate(10deg);
 }
